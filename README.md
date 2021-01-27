@@ -1,2 +1,3 @@
-# HTML_Study_Place
+# HTML Study Place
+
 This is my study place for HTML.

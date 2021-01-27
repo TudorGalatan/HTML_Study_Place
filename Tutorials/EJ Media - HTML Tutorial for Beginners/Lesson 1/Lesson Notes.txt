@@ -1,0 +1,58 @@
+- Lesson 1 - Introduction to HTML:
+
+	- HTML:
+		
+		- It is a very important language for web development.
+		- HTML stands for Hypertext Markup Language.
+		- HTML is just a document that contains text.
+		- Web browsers read and display documents that contain HTML.
+		- To write HTML, you just need a text editor.
+		- Examples of text editors to use:
+			- Notepad
+			- Notepad++
+			- Visual Studio Code
+			- Adobe Dreamweaver
+		
+	- Tags:
+
+		- All tags are written between angle brackets.
+		
+		- Structure of a tag:
+			<tag>
+		
+		- Structure of an opening tag:
+			<tag>
+			
+		- Example of an opening tag:
+			<body>
+			
+		- Structure of a closing tag:
+			<tag>
+			
+		- Example of a closing tag:
+			</body>
+			
+	- Markup element:
+
+		- It is a pair of an opening and a closing tag, with some content inbetween.
+		
+		- All opening tags have a closing tag too.
+		
+		- Structure:
+			<tag>content</tag>
+		
+		- Example:
+			<body>This is a line of text.</body>
+			
+	- Empty element:
+
+		- It is a type of element that doesn't have a closing tag.
+		
+		- Structure:
+			<tag />
+			
+		- Example:
+			<br />
+				- This is a line break.
+				- It just creates a line break, there is no content to put between an opening
+				  tag and a closing one, so there is no need of a closing tag.
